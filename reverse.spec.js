@@ -1,7 +1,6 @@
 const reverse = require('./reverse');
 // All my tests to verify if my reverse function works properly.
 // To run the tests install the jest lib using: npm install jest.
-// Go to package.json and create a "scripts": "test": "jest".
 // Run npm test reverse.spec.js to run all the tests.
 
 test('Invert a simple string array', () => {
