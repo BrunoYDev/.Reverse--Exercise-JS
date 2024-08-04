@@ -14,4 +14,6 @@ function reverse(array){ // Receive an array
     return array; // When the while loop ends, the function will return the reversed array
 }
 
-console.log(reverse([1,2,3,4,5]));
+module.exports{
+    reverse;
+}
